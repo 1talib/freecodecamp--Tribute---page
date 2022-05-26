@@ -1,2 +1,1 @@
-# freecodecamp--Tribute---page
-Responsive Web Design Projects--Build a tribute Page.
+file:///C:/Users/Talib/Dropbox/PC/Desktop/Tribute-page/.vscode/index.html
